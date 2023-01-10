@@ -1,5 +1,4 @@
 {
-  "officesInfo": [
     {
       "cityName": "Saint-Petersburg",
       "officePhone": "+7 (921) 220-45-47",
@@ -15,5 +14,4 @@
       "officePhone": "+7 (911) 420-16-43",
       "officeAddress": "October Avenue, 16"
     }
-  ]
 }
