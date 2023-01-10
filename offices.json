@@ -1,0 +1,19 @@
+{
+  "officesInfo": [
+    {
+      "cityName": "Saint-Petersburg",
+      "officePhone": "+7 (921) 220-45-47",
+      "officeAddress": "Lomonosova street, 9"
+    },
+    {
+      "cityName": "Moscow",
+      "officePhone": "+7 (998) 567-89-98",
+      "officeAddress": "Lenina street, 192"
+    },
+    {
+      "cityName": "Petrozavodsk",
+      "officePhone": "+7 (911) 420-16-43",
+      "officeAddress": "October Avenue, 16"
+    }
+  ]
+}
